@@ -1,2 +1,0 @@
-# Java_Full_Scale_Introduction
-Java本格入門
